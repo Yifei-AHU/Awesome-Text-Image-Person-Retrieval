@@ -43,7 +43,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 3. [Text-RGBT Person Retrieval](#Text-RGBT Person Retrieval)
 
 --------------------------------------------------------------------------------------
-# Multispectral Pedestrian Detection
+# Text-Image Person Retrieval
 ## Datasets and Tools
 |Dataset                        | Years |Modality     |Images| Classes|
 |-------------------------------|-------|-------------|------|--------|
@@ -199,7 +199,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 --------------------------------------------------------------------------------------
 
-# RGB-T Aerial Object Detection
+# Text-Image Aerial Person Retrieval
 ## Datasets
 
 |Dataset                        | Years |Modality     |Images| Classes|Alignment|
@@ -384,7 +384,7 @@ VT821 Dataset [[PDF](https://link.springer.com/content/pdf/10.1007%2F978-981-13-
 
 --------------------------------------------------------------------------------------
 
-# RGB-T Crowd Counting
+# Text-RGBT Person Retrieval
 ## Datasets
 RGBT-CC[[link](http://lingboliu.com/RGBT_Crowd_Counting.html)], DroneRGBT [[link](https://github.com/VisDrone/DroneRGBT)]
 ## Papers
