@@ -1,4 +1,4 @@
-# Awesome-Text-Image Person Retrieval ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ![-RGBT-red](https://user-images.githubusercontent.com/38373305/205479612-e61d11b4-6c3e-4eb0-8d19-2e7170eb7783.svg)
+# Awesome-Text-Image Person Retrieval ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 A collection of deep learning based Text-Image Person Retrieval methods, codes and datasets.
 
 Welcome to add valuable papers and codes, feel free to star and contact me. Keep updating....🚀
