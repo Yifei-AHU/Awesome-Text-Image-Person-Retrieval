@@ -44,7 +44,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 --------------------------------------------------------------------------------------
 # Text-Image Person Retrieval
-## Datasets and Tools
+## Datasets
 |Dataset                        | Years |Modality     |Images| Classes|
 |-------------------------------|-------|-------------|------|--------|
 |[KAIST](https://soonminhwang.github.io/rgbt-ped-detection/)|2015|RGB, LWIR|95K|1|
@@ -63,15 +63,6 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 <!-- |[MMPD](https://github.com/jin-s13/MMPD-Dataset)|2024|RGB, LWIR|1200+|1| -->
 <!-- [Multi-Spectral Stereo](https://github.com/UkcheolShin/MS2-MultiSpectralStereoDataset), -->
-
-
-### KAIST Tools
-- Improved KAIST Testing Annotations provided by Liu et al.[download](https://docs.google.com/forms/d/e/1FAIpQLSe65WXae7J_KziHK9cmX_lP_hiDXe7Dsl6uBTRL0AWGML0MZg/viewform?usp=pp_url&entry.1637202210&entry.1381600926&entry.718112205&entry.233811498) 
-- Sanitized KAIST Training Annotations provided by Li et al.[download](https://github.com/Li-Chengyang/MSDS-RCNN) 
-- Improved KAIST Training Annotations provided by Zhang et al.[download](https://github.com/luzhang16/AR-CNN) 
-- Evalutaion codes.[download](https://github.com/CalayZhou/MBNet/tree/master/KAISTdevkit-matlab-wrapper)
-- Annotation: vbb format->xml format.[download](https://github.com/SoonminHwang/rgbt-ped-detection/tree/master/data/scripts)
-- Evaluation [Website](https://eval.ai/web/challenges/challenge-page/1247/leaderboard/3137).
 
 ## Papers
 
