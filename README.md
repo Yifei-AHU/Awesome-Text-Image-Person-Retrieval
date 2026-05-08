@@ -38,12 +38,15 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 ## Contents  
 
-1. [Text-Image Person Retrieval](#Text-Image Person Retrieval)
-2. [Text-Image Aerial Person Retrieval](#Text-Image Aerial Person Retrieval)
-3. [Text-RGBT Person Retrieval](#Text-RGBT Person Retrieval)
+1. [Multispectral Pedestrian Detection](#Multispectral-Pedestrian-Detection)
+2. [RGB-T Aerial Object Detection](#RGB-T-Aerial-Object-Detection)
+3. [RGB-T Semantic Segmentation](#RGB-T-Semantic-Segmentation)
+4. [RGB-T Salient Object Detection](#RGB-T-Salient-Object-Detection)
+5. [RGB-T Crowd Counting](#RGB-T-Crowd-Counting)
+6. [RGB-T Fusion Tracking](#RGB-T-Fusion-Tracking)
 
 --------------------------------------------------------------------------------------
-# Text-Image Person Retrieval
+# Multispectral Pedestrian Detection
 ## Datasets
 |Dataset                        | Years |Modality     |Images| Classes|
 |-------------------------------|-------|-------------|------|--------|
