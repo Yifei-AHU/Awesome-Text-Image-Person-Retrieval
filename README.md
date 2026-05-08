@@ -38,7 +38,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 ## Contents  
 
-1. [Multispectral Pedestrian Detection](#Multispectral-Pedestrian-Detection)
+1. [Text-Image Person Retrieval](#Multispectral-Pedestrian-Detection)
 2. [RGB-T Aerial Object Detection](#RGB-T-Aerial-Object-Detection)
 3. [RGB-T Semantic Segmentation](#RGB-T-Semantic-Segmentation)
 4. [RGB-T Salient Object Detection](#RGB-T-Salient-Object-Detection)
