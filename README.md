@@ -25,8 +25,8 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ## Papers
 
 ### 2026
-1. Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based
-Person Retrieval, AAAI 2026, Xinpan Yuan et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38218)]
+1. Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval, AAAI 2026, Xinpan Yuan et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38218)]
+2. KPDM: Key Phrase Dynamic Masking for Robust Text-to-Image Person Retrieval, AAAI 2026, Shaofeng You et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38199)]
 
 ### Modality Bias
 1. UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning, ACM MM 2025, Maoxun Yuan et al., [[PDF](https://arxiv.org/abs/2404.17360)][[Code](https://github.com/PoTsui99/UniRGB-IR)]
