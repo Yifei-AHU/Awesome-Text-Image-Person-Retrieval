@@ -6,7 +6,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ## Contents  
 
 1. [Text-Image Person Retrieval](#Text-Image-Person-Retrieval)
-2. [Text-Image Aerial Person Retrieval](#Text-Image-Aerial-Person-Retrieval)
+2. [Text-Aerial Person Retrieval](#Text-Aerial-Person-Retrieval)
 3. [Text-RGBT Person Retrieval](#Text-RGBT-Person-Retrieval)
 
 --------------------------------------------------------------------------------------
@@ -56,7 +56,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 --------------------------------------------------------------------------------------
 
-# Text-Image Aerial Person Retrieval
+# Text-Aerial Person Retrieval
 ## Datasets
 
 |Dataset                        | Years |Modality     |Images| Classes|Alignment|
