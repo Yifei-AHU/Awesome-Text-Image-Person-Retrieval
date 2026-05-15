@@ -33,7 +33,10 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 6. Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval, TIP 2026, Guan-Nan Dong et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
 
 ### 2025
-1. UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning, ACM MM 2025, Maoxun Yuan et al., [[PDF](https://arxiv.org/abs/2404.17360)][[Code](https://github.com/PoTsui99/UniRGB-IR)]
+1. Visual perturbation for text-based person search, AAAI 2025, Pengcheng Zhang et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/33091)]
+2. DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval, AAAI 2025, Yating Liu et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32608)]
+3. Chat-Driven Text Generation and Interaction for Person Retrieval, EMNLP 2025, Zequn Xie et al., [[PDF](https://aclanthology.org/2025.emnlp-main.266/)]
+4. Beyond Walking: A Large-Scale Image-Text Benchmark for Text-based Person Anomaly Search, ICCV 2025, Shuyu Yang et al., [[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Beyond_Walking_A_Large-Scale_Image-Text_Benchmark_for_Text-based_Person_Anomaly_ICCV_2025_paper.pdf)]
 
 ### 2024
 
