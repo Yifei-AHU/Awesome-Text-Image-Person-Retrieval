@@ -3,39 +3,6 @@ A collection of deep learning based Text-Image Person Retrieval methods, codes a
 
 Welcome to add valuable papers and codes, feel free to star and contact me. Keep updating....🚀
 
-<!-- <details>
-<summary>Some News: 🆕</summary>
-
-🚀 **2025.08.18 A major update to this repository.** <br>
-
-💎 **2025.07.04 Add one our paper in RGB-T Aerial Object Detection.** <br>
-
-👀 **2025.04.01 Add one dataset in RGB-T-Aerial-Object-Detection (RGBT-Tiny).** <br>
-
-💎 **2025.02.17 Add one dataset-SMOD and some papers in Multispectral Pedestrian Detection.** <br>
-
-👀 **2025.02.12 Add one dataset-MFAD in Multispectral Pedestrian Detection.** <br>
-
-👀 **2024.12.23 Add one TPAMI paper in RGB-T Salient Object Detection.** <br>
-
-💎 **2024.10.31 Add one our paper in Pixel-level Fusion for Detection.** <br>
-
-👀 **2024.10.19 Add one dataset in Multispectral Pedestrian Detection.** <br>
-
-💎 **2024.06.24 Add one our paper and one CVPR paper.** <br>
-
-👀 **2024.05.23 Add one dataset in RGB-T Aerial Object Detection.** <br>
-
-💎 **2024.04.23 Add more papers about RGB-T Salient Object Detection.** <br>
-
-👀 **2024.03.17 Add one CVPR paper.** <br>
-
-💎 **2024.03.15 Add new content about RGB-T Semantic segmentation.** <br>
-
-👀 **2024.03.12 Add one our paper and one CVPR paper.** <br>
-
-</details> -->
-
 ## Contents  
 
 1. [Text-Image Person Retrieval](#Text-Image-Person-Retrieval)
@@ -57,8 +24,9 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 ## Papers
 
-### Pretrained Generalist Model
-1. LoME: LoRA-Driven Multimodal Extractor for  RGB-X Vision Tasks, TCSVT 2026, Yusi Zhang et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11133673)][[Code](https://github.com/zyszxhy/LoME)]
+### 2026
+1. Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based
+Person Retrieval, AAAI 2026, Xinpan Yuan et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38218)]
 
 ### Modality Bias
 1. UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning, ACM MM 2025, Maoxun Yuan et al., [[PDF](https://arxiv.org/abs/2404.17360)][[Code](https://github.com/PoTsui99/UniRGB-IR)]
