@@ -32,27 +32,14 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 5. Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026, Yifei Deng et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
 6. Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval, TIP 2026, Guan-Nan Dong et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
 
-### Modality Bias
+### 2025
 1. UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning, ACM MM 2025, Maoxun Yuan et al., [[PDF](https://arxiv.org/abs/2404.17360)][[Code](https://github.com/PoTsui99/UniRGB-IR)]
 
-### Pixel-level Fusion for Detection
-1. CtrlFuse: Mask-Prompt Guided Controllable Infrared and Visible Image Fusion, AAAI 2026, Yiming Sun et al., [[PDF](https://arxiv.org/pdf/2601.08619)][[Code](https://github.com/Sevryy/CtrlFuse)]
+### 2024
 
-### Illumination Aware
-1. Efficient Multispectral Object Detection with attentive feature aggregation leveraging zero-shot implicit illumination guidance, Information Fusion 2025, Zhongxia Xiong et al., [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253525000120)]
+### 2023
 
-### Feature Alignment
-1.  Contextually-Guided State Space Fusion for Misaligned Multi-Spectral Object Detection, ACMMM 2025, Guyue Jin et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3754550)]
-
-### Modality Translation and  Knowledge Distillation 
-1. SAM-Guided Semantic Knowledge Fusion for Visible-Infrared Object Detection, ACM MM 2025,  Ting Li et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3755718)][[Code]( https://github.com/liting1018/SemFusion)]
-
-### Adversarial Attack and Defense
-1. CDUPatch: Color-Driven Universal Adversarial Patch Attack for Dual-Modal Visible-Infrared Detectors,  Jiahuan Long et al., ACM MM 2025, [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3755188)]
-2. PAIF: Perception-Aware Infrared-Visible Image Fusion for Attack-Tolerant Semantic Segmentation, ACM MM 2023, [[PDF](https://dl.acm.org/doi/abs/10.1145/3581783.3611928)][[Code](https://github.com/LiuZhu-CV/PAIF)]
-
-### Fusion Architecture
-1. Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection, Jifeng Shen et al. Information Fusion 2026, [[PDF](https://www.sciencedirect.com/science/article/pii/S1566253525009571)][[Code](https://github.com/61s61min/MS2Fusion.git)]
+### 2022
 
 --------------------------------------------------------------------------------------
 
