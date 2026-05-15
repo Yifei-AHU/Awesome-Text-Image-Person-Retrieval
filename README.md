@@ -37,6 +37,9 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 2. DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval, AAAI 2025, Yating Liu et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32608)]
 3. Chat-Driven Text Generation and Interaction for Person Retrieval, EMNLP 2025, Zequn Xie et al., [[PDF](https://aclanthology.org/2025.emnlp-main.266/)]
 4. Beyond Walking: A Large-Scale Image-Text Benchmark for Text-based Person Anomaly Search, ICCV 2025, Shuyu Yang et al., [[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Beyond_Walking_A_Large-Scale_Image-Text_Benchmark_for_Text-based_Person_Anomaly_ICCV_2025_paper.pdf)]
+5. Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification, CVPR 2025, Yang Qin et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.html)]
+6. Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification, CVPR 2025, Jiayu Jiang et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_Modeling_Thousands_of_Human_Annotators_for_Generalizable_Text-to-Image_Person_Re-identification_CVPR_2025_paper.html)]
+7. From Data Deluge to Data Curation: A Filtering-WoRA Paradigm for Efficient Text-based Person Search, WWW 2025, Jintao Sun et al., [[PDF](https://dl.acm.org/doi/abs/10.1145/3696410.3714788)]
 
 ### 2024
 
