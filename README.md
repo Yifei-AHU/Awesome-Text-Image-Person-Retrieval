@@ -6,8 +6,9 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ## Contents  
 
 1. [Text-Image Person Retrieval](#Text-Image-Person-Retrieval)
-2. [Text-Aerial Person Retrieval](#Text-Aerial-Person-Retrieval)
-3. [Text-RGBT Person Retrieval](#Text-RGBT-Person-Retrieval)
+2. [Semi-supervised / Weakly-supervised Text-Image Person Retrieval](#Semi-supervised/Weakly-supervised-Text-Image-Person-Retrieval)
+3. [Text-Aerial Person Retrieval](#Text-Aerial-Person-Retrieval)
+4. [Text-RGBT Person Retrieval](#Text-RGBT-Person-Retrieval)
 
 --------------------------------------------------------------------------------------
 # Text-Image Person Retrieval
@@ -53,6 +54,22 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ### 2023
 
 ### 2022
+
+--------------------------------------------------------------------------------------
+
+# Semi-supervised / Weakly-supervised Text-Image Person Retrieval
+## Datasets
+|Dataset                        | Years |Modality     |Images| Classes|
+|-------------------------------|-------|-------------|------|--------|
+|[MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)|2017|RGB, LWIR|1.5K|8|
+|[PST900](https://github.com/ShreyasSkandanS/pst900_thermal_rgb)|2020|RGB, LWIR|900|5|
+|[SemanticRT](https://github.com/jiwei0921/SemanticRT)|2023|RGB, LWIR|11K|13|
+|[FMB](https://github.com/JinyuanLiu-CV/SegMiF)|2023|RGB, LWIR|1.5K|14|
+|[IDD-AW (Adverse Weather)](https://iddaw.github.io/)|2023|RGB, NIR|5K|18|
+|[Caltech Aerial RGBT](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)|2024|RGB, LWIR|4K|10|
+
+## Papers
+1. UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning, ACM MM 2025, Maoxun Yuan et al., [[PDF](https://arxiv.org/abs/2404.17360)][[Code](https://github.com/PoTsui99/UniRGB-IR)]
 
 --------------------------------------------------------------------------------------
 
