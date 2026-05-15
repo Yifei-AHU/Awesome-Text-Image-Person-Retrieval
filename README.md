@@ -9,7 +9,8 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 2. [Weakly supervised Text-Image Person Retrieval](#Weakly-supervised-Text-Image-Person-Retrieval)
 3. [Unsupervised Text-Image Person Retrieval](#Unsupervised-Text-Image-Person-Retrieval)
 4. [Text-Aerial Person Retrieval](#Text-Aerial-Person-Retrieval)
-5. [Text-RGBT Person Retrieval](#Text-RGBT-Person-Retrieval)
+5. [Dialogue-based Person Retrieval](#Dialogue-based-Person-Retrieval)
+6. [Text-RGBT Person Retrieval](#Text-RGBT-Person-Retrieval)
 
 --------------------------------------------------------------------------------------
 # Text-Image Person Retrieval
@@ -91,6 +92,25 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 --------------------------------------------------------------------------------------
 
 # Text-Aerial Person Retrieval
+## Datasets
+
+|Dataset                        | Years |Modality     |Images| Classes|Alignment|
+|-------------------------------|-------|-------------|------|--------|---------|
+|[DroneVehicle](https://github.com/VisDrone/DroneVehicle)|2021|RGB, LWIR|56K|5|Partially|
+|[VEDAI](https://downloads.greyc.fr/vedai/)|2014|RGB, NIR|1K|9|Strictly|
+|[DVTOD](https://github.com/VDT-2048/DVTOD)|2014|RGB, LWIR|2K|3|Misaligned|
+|[NII-CU](https://www.nii-cu-multispectral.org/)|2022|RGB, LWIR|5K|1|Strictly|
+|[VTSaR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10833840)|2024|RGB, LWIR|40K|1|Strictly|
+|[RGBT-Tiny](https://github.com/XinyiYing/RGBT-Tiny)|2025|RGB, LWIR|93K|7|Partially|
+|ATR-UMOD|2025|RGB, LWIR|13K|11|Partially|
+|[MODA](https://github.com/shuaihao-han/MODA)|2026|RGB, NIR|13K|8|Strictly|
+
+## Papers
+1. MODA: The First Challenging Benchmark for Multispectral Object Detection in Aerial Images, AAAI 2026, Shuaihao Han et al., [[PDF](https://arxiv.org/abs/2512.09489)][[Code](https://github.com/shuaihao-han/MODA)]
+
+--------------------------------------------------------------------------------------
+
+# Dialogue-based Person Retrieval
 ## Datasets
 
 |Dataset                        | Years |Modality     |Images| Classes|Alignment|
