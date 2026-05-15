@@ -29,7 +29,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 2. KPDM: Key Phrase Dynamic Masking for Robust Text-to-Image Person Retrieval, AAAI 2026, Shaofeng You et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38199)]
 3. Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification, AAAI 2026, Linhan Zhou et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38380)]
 4. Pedestrian-Centric Discriminative and Fine-grained Semantic Mining for Text-based Person Retrieval, WWW 2026, Yuheng Liang et al., [[PDF](https://dl.acm.org/doi/abs/10.1145/3774904.3792134)]
-5. Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026, Yifei Deng et al., (https://ieeexplore.ieee.org/abstract/document/11503671)]
+5. Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026, Yifei Deng et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
 6. Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval, TIP 2026, Guan-Nan Dong et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
 
 ### Modality Bias
