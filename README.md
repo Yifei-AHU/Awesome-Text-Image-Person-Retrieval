@@ -6,7 +6,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ## Contents  
 
 1. [Text-Image Person Retrieval](#Text-Image-Person-Retrieval)
-2. [Semi-supervised / Weakly-supervised Text-Image Person Retrieval](#Semi-supervised/Weakly-supervised-Text-Image-Person-Retrieval)
+2. [Semi/Weakly supervised Text-Image Person Retrieval](#Semi/Weakly-supervised-Text-Image-Person-Retrieval)
 3. [Text-Aerial Person Retrieval](#Text-Aerial-Person-Retrieval)
 4. [Text-RGBT Person Retrieval](#Text-RGBT-Person-Retrieval)
 
@@ -57,7 +57,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 --------------------------------------------------------------------------------------
 
-# Semi-supervised / Weakly-supervised Text-Image Person Retrieval
+# Semi/Weakly supervised Text-Image Person Retrieval
 ## Datasets
 |Dataset                        | Years |Modality     |Images| Classes|
 |-------------------------------|-------|-------------|------|--------|
