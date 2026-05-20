@@ -6,7 +6,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ## Contents  
 
 1. [Text-Image Person Retrieval](#Text-Image-Person-Retrieval)
-2. [Semi/Weakly supervised Text-Image Person Retrieval](#Weakly-supervised-Text-Image-Person-Retrieval)
+2. [Semi/Weakly supervised Text-Image Person Retrieval](#semiweakly-supervised-text-image-person-retrieval)
 3. [Unsupervised Text-Image Person Retrieval](#Unsupervised-Text-Image-Person-Retrieval)
 4. [Text-Aerial Person Retrieval](#Text-Aerial-Person-Retrieval)
 5. [Dialogue-based Person Retrieval](#Dialogue-based-Person-Retrieval)
