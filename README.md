@@ -69,8 +69,13 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 15. An Adaptive Correlation Filtering Method for Text-Based Person Search, IJCV 2024, Mengyang Sun et al., [[PDF](https://link.springer.com/article/10.1007/s11263-024-02094-8)]
 
 ### 2023
-
-### 2022
+1. Unified Pre-training with Pseudo Texts for Text-To-Image Person Re-identification, ICCV 2023, Zhiyin Shao et al., [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_Unified_Pre-Training_with_Pseudo_Texts_for_Text-To-Image_Person_Re-Identification_ICCV_2023_paper.pdf)]
+2. Cross-modal implicit relation reasoning and aligning for text-to-image person retrieval, CVPR 2023, Ding Jiang et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Cross-Modal_Implicit_Relation_Reasoning_and_Aligning_for_Text-to-Image_Person_Retrieval_CVPR_2023_paper.pdf)]
+3. Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark, ACM MM 2023, Shuyu Yang et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3581783.3611709)]
+4. RaSa: Relation and Sensitivity Aware Representation Learning for Text-based Person Search, IJCAI 2023, Yang Bai et al., [[PDF](https://arxiv.org/pdf/2305.13653)]
+5. Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification, ACM MM 2023, Shuanglin Yan et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3581783.3611832)]
+6. Pedestrian-specific Bipartite-aware Similarity Learning for Text-based Person Retrieval, ACM MM 2023, Fei Shen et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3581783.3612009)]
+7. Beat: Bi-directional one-to-many embedding alignment for text-based person retrieval, ACM MM 2023, Yiwei Ma et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3581783.3611768)]
 
 --------------------------------------------------------------------------------------
 
