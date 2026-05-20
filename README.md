@@ -52,6 +52,10 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 14. Multilingual Text-to-Image Person Retrieval via Bidirectional Relation Reasoning and Aligning, TPAMI 2025, Min Cao et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11199360)]
 
 ### 2024
+1.Noisy-Correspondence Learning for Text-to-Image Person Re-identification, CVPR 2024, Yang Qin et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)]
+2. An Empirical Study of CLIP for Text-Based Person Search, AAAI 2024, Min Cao et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/27801)]
+3. Diverse Person: Customize Your Own Dataset for Text-Based Person Search, AAAI 2024, Zifan Song et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28298)]
+4.
 
 ### 2023
 
