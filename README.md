@@ -85,7 +85,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 1. Weakly Supervised Text-based Person Re-Identification, ICCV 2021, Shizhen Zhao et al., [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Weakly_Supervised_Text-Based_Person_Re-Identification_ICCV_2021_paper.pdf)]
 2. Semi-supervised text-based person search, TIP 2025, Daming Gao et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11165023/)]
 3. Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching, ACM MM 2025, Yafei Zhang et al., [[PDF](https://arxiv.org/pdf/2507.06744)]
-4. 
+4. Text-based person search without parallel image-text data, ACM MM 2023, Yang Bai et al., [[PDF](https://arxiv.org/pdf/2305.12964)]
 
 --------------------------------------------------------------------------------------
 
