@@ -54,8 +54,19 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ### 2024
 1. Noisy-Correspondence Learning for Text-to-Image Person Re-identification, CVPR 2024, Yang Qin et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)]
 2. Harnessing the power of mllms for transferable text-to-image person reid, CVPR 2024, Wentao Tan et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Harnessing_the_Power_of_MLLMs_for_Transferable_Text-to-Image_Person_ReID_CVPR_2024_paper.pdf)]
-3. An Empirical Study of CLIP for Text-Based Person Search, AAAI 2024, Min Cao et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/27801)]
-4. Diverse Person: Customize Your Own Dataset for Text-Based Person Search, AAAI 2024, Zifan Song et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28298)]
+3. Ufinebench: Towards text-based person retrieval with ultra-fine granularity, CVPR 2024, Jialong Zuo et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zuo_UFineBench_Towards_Text-based_Person_Retrieval_with_Ultra-fine_Granularity_CVPR_2024_paper.pdf)]
+4. Plip: Language-image pre-training for person representation learning, Jialong Zuo et al., [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/510ad3018bbdc5b6e3b10646e2e35771-Paper-Conference.pdf)]
+5. PLOT: Text-Based Person Search with Part Slot Attention for Corresponding Part Discovery, ECCV 2024, Jicheol Park et al., [[PDF](https://arxiv.org/pdf/2409.13475?)]
+6. An Empirical Study of CLIP for Text-Based Person Search, AAAI 2024, Min Cao et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/27801)]
+7. Diverse Person: Customize Your Own Dataset for Text-Based Person Search, AAAI 2024, Zifan Song et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28298)]
+8. Causality-Inspired Invariant Representation Learning for Text-Based Person Retrieval, AAAI 2024, Yu Liu et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/29314)]
+9. Adaptive Uncertainty-Based Learning for Text-Based Person Retrieval, AAAI 2024, Shenshen Li et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28101)]
+10. Unifying Multi-Modal Uncertainty Modeling and Semantic Alignment for Text-to-Image Person Re-identification, AAAI 2024, Zhiwei Zhao et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/28585)]
+11. Fine-grained Semantic Alignment with Transferred Person-SAM for Text-based Person Retrieval, ACM MM 2024, Yihao Wang et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3664647.3681553)]
+12. Prototypical prompting for text-to-image person re-identification, ACM MM 2024, Shuanglin Yan et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3664647.3681165)]
+13. Fine-grained Semantics-aware Representation Learning for Text-based Person Retrieval, ACM MM 2024, Di Wang et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3652583.3658054)]
+14. MACA: Memory-aided Coarse-to-fine Alignment for Text-based Person Search, SIGIR 2024, Liangxu Su et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3626772.3657915)]
+15. An Adaptive Correlation Filtering Method for Text-Based Person Search, IJCV 2024, Mengyang Sun et al., [[PDF](https://link.springer.com/article/10.1007/s11263-024-02094-8)]
 
 ### 2023
 
