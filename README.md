@@ -29,7 +29,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 ### 2026
 1. Tackling Alignment Ambiguity in Person Retrieval through Conversational Attribute Mining, CVPR 2026, Hao Zou et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Tackling_Alignment_Ambiguity_in_Person_Retrieval_through_Conversational_Attribute_Mining_CVPR_2026_paper.pdf)]
-2. Quota-Calibrated Fine-Grained Alignment with Context-Aware Marginals for Text-based Person Retrieval, CVPR 2026, Hao Zou et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Quota-Calibrated_Fine-Grained_Alignment_with_Context-Aware_Marginals_for_Text-based_Person_Retrieval_CVPR_2026_paper.pdf)]
+2. Quota-Calibrated Fine-Grained Alignment with Context-Aware Marginals for Text-based Person Retrieval, CVPR 2026, Dongsheng Li et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Quota-Calibrated_Fine-Grained_Alignment_with_Context-Aware_Marginals_for_Text-based_Person_Retrieval_CVPR_2026_paper.pdf)]
 3. Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval, AAAI 2026, Xinpan Yuan et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38218)]
 4. KPDM: Key Phrase Dynamic Masking for Robust Text-to-Image Person Retrieval, AAAI 2026, Shaofeng You et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38199)]
 5. Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification, AAAI 2026, Linhan Zhou et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38380)]
