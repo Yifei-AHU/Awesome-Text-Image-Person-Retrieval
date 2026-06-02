@@ -100,6 +100,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 3. Unsupervised Cross-Modal Person Search via Progressive Diverse Text Generation, ACM MM 2025, Feng Chen et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3755171)]
 4. FACE: A Dual-Template and Adaptive Curriculum Framework for Unsupervised Text-Based Person Search, ACM MM 2025, Xiaoxuan Mu et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3755315)]
 5. Dependability Feature Learning based on Sample Generation for Unsupervised Text-to-Image Person Re-identification, TCSVT 2025, Chenglong Shao et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11131229)]
+6. Enhancing Cross-modal Completion and Alignment for Unsupervised Incomplete Text-to-Image Person Retrieval, IJCAI 2024, Tiantian Gong et al., [[PDF](https://www.ijcai.org/proceedings/2024/0088.pdf)]
 
 --------------------------------------------------------------------------------------
 
