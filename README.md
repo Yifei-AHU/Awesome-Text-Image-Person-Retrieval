@@ -22,9 +22,6 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 |[ICFG-PEDES](https://github.com/zifyloo/SSAN)|2021|54,522|54,522|4,102|
 [UFineBench](https://github.com/Zplusdragon/UFineBench)|2024|26,206|52,412|6,926|
 
-<!-- |[MMPD](https://github.com/jin-s13/MMPD-Dataset)|2024|RGB, LWIR|1200+|1| -->
-<!-- [Multi-Spectral Stereo](https://github.com/UkcheolShin/MS2-MultiSpectralStereoDataset), -->
-
 ## Papers
 
 ### 2026
