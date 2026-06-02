@@ -88,13 +88,18 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 2. Semi-supervised text-based person search, TIP 2025, Daming Gao et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11165023/)]
 3. Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching, ACM MM 2025, Yafei Zhang et al., [[PDF](https://arxiv.org/pdf/2507.06744)]
 4. Text-based person search without parallel image-text data, ACM MM 2023, Yang Bai et al., [[PDF](https://arxiv.org/pdf/2305.12964)]
+5. 
 
 --------------------------------------------------------------------------------------
 
 # Unsupervised Text-Image Person Retrieval
 
 ## Papers
-1. UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning, ACM MM 2025, Maoxun Yuan et al., [[PDF](https://arxiv.org/abs/2404.17360)][[Code](https://github.com/PoTsui99/UniRGB-IR)]
+1. Pseudo Sentences Evaluation and Quality-Aware Robust Learning for Unsupervised Text-Based Person Search, TIP 2026, Kai Niu et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11534391)]
+2. Exploring the potential of large vision-language models for unsupervised text-based person retrieval, AAAI 2025, Zongyi Li et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32543)]
+3. Unsupervised Cross-Modal Person Search via Progressive Diverse Text Generation, ACM MM 2025, Feng Chen et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3755171)]
+4. FACE: A Dual-Template and Adaptive Curriculum Framework for Unsupervised Text-Based Person Search, ACM MM 2025, Xiaoxuan Mu et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3755315)]
+5. Dependability Feature Learning based on Sample Generation for Unsupervised Text-to-Image Person Re-identification, TCSVT 2025, Chenglong Shao et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11131229)]
 
 --------------------------------------------------------------------------------------
 
