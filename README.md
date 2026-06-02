@@ -76,6 +76,8 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 5. Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification, ACM MM 2023, Shuanglin Yan et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3581783.3611832)]
 6. Pedestrian-specific Bipartite-aware Similarity Learning for Text-based Person Retrieval, ACM MM 2023, Fei Shen et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3581783.3612009)]
 7. Beat: Bi-directional one-to-many embedding alignment for text-based person retrieval, ACM MM 2023, Yiwei Ma et al., [[PDF](https://dl.acm.org/doi/epdf/10.1145/3581783.3611768)]
+8. DCEL: deep cross-modal evidential learning for text-based person retrieval, ACM MM 2023, Shenshen Li et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3581783.3612244)]
+9. Clip-driven fine-grained text-image person re-identification, TIP 2023, Shuanglin Yan et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/10304579)]
 
 --------------------------------------------------------------------------------------
 
