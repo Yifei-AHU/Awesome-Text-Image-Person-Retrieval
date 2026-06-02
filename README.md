@@ -28,12 +28,14 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ## Papers
 
 ### 2026
-1. Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval, AAAI 2026, Xinpan Yuan et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38218)]
-2. KPDM: Key Phrase Dynamic Masking for Robust Text-to-Image Person Retrieval, AAAI 2026, Shaofeng You et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38199)]
-3. Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification, AAAI 2026, Linhan Zhou et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38380)]
-4. Pedestrian-Centric Discriminative and Fine-grained Semantic Mining for Text-based Person Retrieval, WWW 2026, Yuheng Liang et al., [[PDF](https://dl.acm.org/doi/abs/10.1145/3774904.3792134)]
-5. Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026, Yifei Deng et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
-6. Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval, TIP 2026, Guan-Nan Dong et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
+1. Tackling Alignment Ambiguity in Person Retrieval through Conversational Attribute Mining, CVPR 2026, Hao Zou et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Tackling_Alignment_Ambiguity_in_Person_Retrieval_through_Conversational_Attribute_Mining_CVPR_2026_paper.pdf)]
+2. Quota-Calibrated Fine-Grained Alignment with Context-Aware Marginals for Text-based Person Retrieval, CVPR 2026, Hao Zou et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Quota-Calibrated_Fine-Grained_Alignment_with_Context-Aware_Marginals_for_Text-based_Person_Retrieval_CVPR_2026_paper.pdf)]
+3. Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval, AAAI 2026, Xinpan Yuan et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38218)]
+4. KPDM: Key Phrase Dynamic Masking for Robust Text-to-Image Person Retrieval, AAAI 2026, Shaofeng You et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38199)]
+5. Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification, AAAI 2026, Linhan Zhou et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38380)]
+6. Pedestrian-Centric Discriminative and Fine-grained Semantic Mining for Text-based Person Retrieval, WWW 2026, Yuheng Liang et al., [[PDF](https://dl.acm.org/doi/abs/10.1145/3774904.3792134)]
+7. Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026, Yifei Deng et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
+8. Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval, TIP 2026, Guan-Nan Dong et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
 
 ### 2025
 1. Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification, CVPR 2025, Yang Qin et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.html)]
