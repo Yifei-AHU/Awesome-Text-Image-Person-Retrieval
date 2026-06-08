@@ -88,7 +88,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 2. Semi-supervised text-based person search, TIP 2025, Daming Gao et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11165023/)]
 3. Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching, ACM MM 2025, Yafei Zhang et al., [[PDF](https://arxiv.org/pdf/2507.06744)]
 4. Text-based person search without parallel image-text data, ACM MM 2023, Yang Bai et al., [[PDF](https://arxiv.org/pdf/2305.12964)]
-5. 
+5. Attribute-Centric Cross-Modal Alignment for Weakly Supervised Text-Based Person Re-ID, TMM 2025, Jiajia Xu et al., [[PDF](https://ieeexplore.ieee.org/abstract/document/11159251)]
 
 --------------------------------------------------------------------------------------
 
@@ -101,6 +101,9 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 4. FACE: A Dual-Template and Adaptive Curriculum Framework for Unsupervised Text-Based Person Search, ACM MM 2025, Xiaoxuan Mu et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3755315)]
 5. Dependability Feature Learning based on Sample Generation for Unsupervised Text-to-Image Person Re-identification, TCSVT 2025, Chenglong Shao et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11131229)]
 6. Enhancing Cross-modal Completion and Alignment for Unsupervised Incomplete Text-to-Image Person Retrieval, IJCAI 2024, Tiantian Gong et al., [[PDF](https://www.ijcai.org/proceedings/2024/0088.pdf)]
+7. Unsupervised text-based person retrieval via Adaptive Uncertainty-Aware Cross-Modal Learning, PR 2026, Weijia Sun et al.,  [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320326005935)]
+8. Multi-granularity confidence learning for unsupervised text-to-image person re-identification with incomplete modality, KBS 2025, Yongxiang Li et al.,  [[PDF](https://www.sciencedirect.com/science/article/pii/S095070512500351X)]
+9. Cache-aided cross-modal correlation correction for unsupervised cross-domain text-based person search, PR 2026, Kai Niu et al.,  [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320325011847)]
 
 --------------------------------------------------------------------------------------
 
