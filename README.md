@@ -135,14 +135,6 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 --------------------------------------------------------------------------------------
 
-# Text-RGBT Person Retrieval
-## Datasets
-|Dataset                        | Years |    Images   |Captions|   IDs  |
-|-------------------------------|-------|-------------|------  |--------|
-|[CUHK-PEDES](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)|2017|40,206|80,412|13,003|
-|[RSTPReid](https://github.com/NjtechCVLab/RSTPReid-Dataset)|2021|20,505|41010|4,101|
-|[ICFG-PEDES](https://github.com/zifyloo/SSAN)|2021|54,522|54,522|4,102|
-[UFineBench](https://github.com/Zplusdragon/UFineBench)|2024|26,206|52,412|6,926|
 
 ## Papers
 1. UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning, ACM MM 2025, Maoxun Yuan et al., [[PDF](https://arxiv.org/abs/2404.17360)][[Code](https://github.com/PoTsui99/UniRGB-IR)]
