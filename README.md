@@ -134,9 +134,3 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 3. Dialogue-Driven Interactive Dynamic Learning for Text-to-Image, ACM MM 2025, Hongyu Liu et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3754583)]
 
 --------------------------------------------------------------------------------------
-
-
-## Papers
-1. UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning, ACM MM 2025, Maoxun Yuan et al., [[PDF](https://arxiv.org/abs/2404.17360)][[Code](https://github.com/PoTsui99/UniRGB-IR)]
-
---------------------------------------------------------------------------------------
