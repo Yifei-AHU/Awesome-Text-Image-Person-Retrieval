@@ -113,10 +113,12 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 |-------------------------------|-------|-------------|-------|
 |[AERI-PEDES](https://github.com/Yifei-AHU/AERI-PEDES)|2026|144,548|4,659|
 |[TBAPR](https://github.com/xbdxwyh/AEA-FIRM-main)|2025|65,880|1,709|
+|[TAG-PEDES](https://github.com/Flame-Chasers/TAG-PR)|2025|28,206|6,840|
 
 ## Papers
 1. Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark, CVPR 2026, Yifei Deng et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Cross-modal_Fuzzy_Alignment_Network_for_Text-Aerial_Person_Retrieval_and_A_CVPR_2026_paper.html)][[Code](https://github.com/Yifei-AHU/AERI-PEDES)]
 2. AEA-FIRM: Adaptive Elastic Alignment with Fine-Grained Representation Mining for Text-based Aerial-Ground Pedestrian Retrieval, TCSVT 2025, Yihao Wang et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11072214)][[Code](https://github.com/xbdxwyh/AEA-FIRM-main)]
+3. Text-based aerial-ground person retrieval, AAAI 2026, Xinyu Zhou et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/40140)][[Code](https://github.com/Flame-Chasers/TAG-PR)]
 
 --------------------------------------------------------------------------------------
 
