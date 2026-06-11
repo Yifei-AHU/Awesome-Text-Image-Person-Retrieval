@@ -10,7 +10,6 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 3. [Semi/Weakly supervised Text-Image Person Retrieval](#semiweakly-supervised-text-image-person-retrieval)
 4. [Unsupervised Text-Image Person Retrieval](#Unsupervised-Text-Image-Person-Retrieval)
 5. [Dialogue-based Person Retrieval](#Dialogue-based-Person-Retrieval)
-6. [Text-RGBT Person Retrieval](#Text-RGBT-Person-Retrieval)
 
 --------------------------------------------------------------------------------------
 # Text-Image Person Retrieval
