@@ -124,10 +124,9 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 # Dialogue-based Person Retrieval
 ## Datasets
-|Dataset                        | Years |    Images   |Captions|   IDs  |
-|-------------------------------|-------|-------------|------  |--------|
-|[CUHK-PEDES](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)|2017|40,206|80,412|13,003|
-|[RSTPReid](https://github.com/NjtechCVLab/RSTPReid-Dataset)|2021|20,505|41010|4,101|
+|Dataset                        | Years |    Images   |  IDs  |
+|-------------------------------|-------|-------------|-------|
+|[ChatPedes](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)|2025|37,128|12,003|
 
 ## Papers
 1. Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment, CVPR 2025, Yang Bai et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Chat-based_Person_Retrieval_via_Dialogue-Refined_Cross-Modal_Alignment_CVPR_2025_paper.pdf)][[Code](https://github.com/Flame-Chasers/DiaNA)]
