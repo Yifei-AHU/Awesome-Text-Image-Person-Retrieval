@@ -6,9 +6,9 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ## Contents  
 
 1. [Text-Image Person Retrieval](#Text-Image-Person-Retrieval)
-2. [Semi/Weakly supervised Text-Image Person Retrieval](#semiweakly-supervised-text-image-person-retrieval)
-3. [Unsupervised Text-Image Person Retrieval](#Unsupervised-Text-Image-Person-Retrieval)
-4. [Text-Aerial Person Retrieval](#Text-Aerial-Person-Retrieval)
+2. [Text-Aerial Person Retrieval](#Text-Aerial-Person-Retrieval)
+3. [Semi/Weakly supervised Text-Image Person Retrieval](#semiweakly-supervised-text-image-person-retrieval)
+4. [Unsupervised Text-Image Person Retrieval](#Unsupervised-Text-Image-Person-Retrieval)
 5. [Dialogue-based Person Retrieval](#Dialogue-based-Person-Retrieval)
 6. [Text-RGBT Person Retrieval](#Text-RGBT-Person-Retrieval)
 
@@ -81,6 +81,21 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 --------------------------------------------------------------------------------------
 
+# Text-Aerial Person Retrieval
+## Datasets
+|Dataset                        | Years |    Images   |  IDs  |
+|-------------------------------|-------|-------------|-------|
+|[AERI-PEDES](https://github.com/Yifei-AHU/AERI-PEDES)|2026|144,548|4,659|
+|[TBAPR](https://github.com/xbdxwyh/AEA-FIRM-main)|2025|65,880|1,709|
+|[TAG-PEDES](https://github.com/Flame-Chasers/TAG-PR)|2025|28,206|6,840|
+
+## Papers
+1. Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark, CVPR 2026, Yifei Deng et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Cross-modal_Fuzzy_Alignment_Network_for_Text-Aerial_Person_Retrieval_and_A_CVPR_2026_paper.html)][[Code](https://github.com/Yifei-AHU/AERI-PEDES)]
+2. AEA-FIRM: Adaptive Elastic Alignment with Fine-Grained Representation Mining for Text-based Aerial-Ground Pedestrian Retrieval, TCSVT 2025, Yihao Wang et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11072214)][[Code](https://github.com/xbdxwyh/AEA-FIRM-main)]
+3. Text-based aerial-ground person retrieval, AAAI 2026, Xinyu Zhou et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/40140)][[Code](https://github.com/Flame-Chasers/TAG-PR)]
+
+--------------------------------------------------------------------------------------
+
 # Semi/Weakly supervised Text-Image Person Retrieval
 
 ## Papers
@@ -104,21 +119,6 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 7. Unsupervised text-based person retrieval via Adaptive Uncertainty-Aware Cross-Modal Learning, PR 2026, Weijia Sun et al.,  [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320326005935)]
 8. Multi-granularity confidence learning for unsupervised text-to-image person re-identification with incomplete modality, KBS 2025, Yongxiang Li et al.,  [[PDF](https://www.sciencedirect.com/science/article/pii/S095070512500351X)]
 9. Cache-aided cross-modal correlation correction for unsupervised cross-domain text-based person search, PR 2026, Kai Niu et al.,  [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320325011847)]
-
---------------------------------------------------------------------------------------
-
-# Text-Aerial Person Retrieval
-## Datasets
-|Dataset                        | Years |    Images   |  IDs  |
-|-------------------------------|-------|-------------|-------|
-|[AERI-PEDES](https://github.com/Yifei-AHU/AERI-PEDES)|2026|144,548|4,659|
-|[TBAPR](https://github.com/xbdxwyh/AEA-FIRM-main)|2025|65,880|1,709|
-|[TAG-PEDES](https://github.com/Flame-Chasers/TAG-PR)|2025|28,206|6,840|
-
-## Papers
-1. Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark, CVPR 2026, Yifei Deng et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Cross-modal_Fuzzy_Alignment_Network_for_Text-Aerial_Person_Retrieval_and_A_CVPR_2026_paper.html)][[Code](https://github.com/Yifei-AHU/AERI-PEDES)]
-2. AEA-FIRM: Adaptive Elastic Alignment with Fine-Grained Representation Mining for Text-based Aerial-Ground Pedestrian Retrieval, TCSVT 2025, Yihao Wang et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11072214)][[Code](https://github.com/xbdxwyh/AEA-FIRM-main)]
-3. Text-based aerial-ground person retrieval, AAAI 2026, Xinyu Zhou et al., [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/40140)][[Code](https://github.com/Flame-Chasers/TAG-PR)]
 
 --------------------------------------------------------------------------------------
 
