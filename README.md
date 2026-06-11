@@ -131,7 +131,7 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 ## Papers
 1. Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment, CVPR 2025, Yang Bai et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Chat-based_Person_Retrieval_via_Dialogue-Refined_Cross-Modal_Alignment_CVPR_2025_paper.pdf)][[Code](https://github.com/Flame-Chasers/DiaNA)]
 2. Chat-Driven Text Generation and Interaction for Person Retrieval, EMNLP 2025, Zequn Xie et al., [[PDF](https://aclanthology.org/2025.emnlp-main.266.pdf)]
-3. Dialogue-Driven Interactive Dynamic Learning for Text-to-Image, ACM MM 2025, Hongyu Liu et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3754583)]
+3. Dialogue-Driven Interactive Dynamic Learning for Text-to-Image Person Retrieval, ACM MM 2025, Hongyu Liu et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3754583)]
 4. LLaVA-ReID: Selective Multi-image Questioner for Interactive Person Re-Identification, ICML 2025, Yiding Lu et al., [[PDF](https://arxiv.org/pdf/2504.10174?)][[Code](https://github.com/XLearning-SCU/LLaVA-ReID)]
 
 --------------------------------------------------------------------------------------
