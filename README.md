@@ -126,11 +126,11 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 |-------------------------------|-------|-------------|------  |--------|
 |[CUHK-PEDES](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)|2017|40,206|80,412|13,003|
 |[RSTPReid](https://github.com/NjtechCVLab/RSTPReid-Dataset)|2021|20,505|41010|4,101|
-|[ICFG-PEDES](https://github.com/zifyloo/SSAN)|2021|54,522|54,522|4,102|
-[UFineBench](https://github.com/Zplusdragon/UFineBench)|2024|26,206|52,412|6,926|
 
 ## Papers
-1. MODA: The First Challenging Benchmark for Multispectral Object Detection in Aerial Images, AAAI 2026, Shuaihao Han et al., [[PDF](https://arxiv.org/abs/2512.09489)][[Code](https://github.com/shuaihao-han/MODA)]
+1. Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment, CVPR 2025, Yang Bai et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Chat-based_Person_Retrieval_via_Dialogue-Refined_Cross-Modal_Alignment_CVPR_2025_paper.pdf)][[Code](https://github.com/Flame-Chasers/DiaNA)]
+2. Chat-Driven Text Generation and Interaction for Person Retrieval, EMNLP 2025, Zequn Xie et al., [[PDF](https://aclanthology.org/2025.emnlp-main.266.pdf)]
+3. Dialogue-Driven Interactive Dynamic Learning for Text-to-Image, ACM MM 2025, Hongyu Liu et al., [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3754583)]
 
 --------------------------------------------------------------------------------------
 
