@@ -109,15 +109,14 @@ Welcome to add valuable papers and codes, feel free to star and contact me. Keep
 
 # Text-Aerial Person Retrieval
 ## Datasets
-|Dataset                        | Years |    Images   |Captions|   IDs  |
-|-------------------------------|-------|-------------|------  |--------|
-|[CUHK-PEDES](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)|2017|40,206|80,412|13,003|
-|[RSTPReid](https://github.com/NjtechCVLab/RSTPReid-Dataset)|2021|20,505|41010|4,101|
-|[ICFG-PEDES](https://github.com/zifyloo/SSAN)|2021|54,522|54,522|4,102|
-[UFineBench](https://github.com/Zplusdragon/UFineBench)|2024|26,206|52,412|6,926|
+|Dataset                        | Years |    Images   |  IDs  |
+|-------------------------------|-------|-------------|-------|
+|[AERI-PEDES](https://github.com/Yifei-AHU/AERI-PEDES)|2026|144,548|4,659|
+|[TBAPR](https://github.com/xbdxwyh/AEA-FIRM-main)|2025|65,880|1,709|
 
 ## Papers
-1. MODA: The First Challenging Benchmark for Multispectral Object Detection in Aerial Images, AAAI 2026, Shuaihao Han et al., [[PDF](https://arxiv.org/abs/2512.09489)][[Code](https://github.com/shuaihao-han/MODA)]
+1. Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark, CVPR 2026, Yifei Deng et al., [[PDF](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Cross-modal_Fuzzy_Alignment_Network_for_Text-Aerial_Person_Retrieval_and_A_CVPR_2026_paper.html)][[Code](https://github.com/Yifei-AHU/AERI-PEDES)]
+2. AEA-FIRM: Adaptive Elastic Alignment with Fine-Grained Representation Mining for Text-based Aerial-Ground Pedestrian Retrieval, TCSVT 2025, Yihao Wang et al., [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11072214)][[Code](https://github.com/xbdxwyh/AEA-FIRM-main)]
 
 --------------------------------------------------------------------------------------
 
