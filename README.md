@@ -1,6 +1,12 @@
 # Awesome-Text-Image Person Retrieval ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 A collection of deep learning based Text-Image Person Retrieval methods, codes and datasets.
 
+## Acknowledgments
+- Thanks to Dr. Yang Bai(白杨) from Wuhan University for her efforts in organizing works related to dialogue-based person retrieval.
+- Thanks to Associate Professor Shuanglin Yan(严双林) from Nanjing Forestry University for his efforts in organizing works related to text-image person retrieval.
+- Thanks to Mr. Yong Wu(伍勇) from Anhui Normal University for his efforts in organizing works related to text-image person retrieval.
+- Thanks to Dr. Xiaowei Zhao(赵小卫) from Anhui University for his efforts in organizing works related to semi-supervised text-image person retrieval.
+
 ## Contributing
 
 Welcome to [pull requests](https://github.com/Yifei-AHU/Awesome-Text-Image-Person-Retrieval/pulls) to add papers, feel free to star and contact me. Keep updating....🚀
