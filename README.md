@@ -20,7 +20,7 @@ Markdown format:
 ## 🧭 Contents  
 
 1. [Text-Image Person Retrieval](#-text-image-person-retrieval)
-2. [Text-Aerial Person Retrieval](#-Text-Aerial-Person-Retrieval)
+2. [Text-Aerial Person Retrieval](#-text-aerial-person-retrieval)
 3. [Semi/Weakly supervised Text-Image Person Retrieval](#-semiweakly-supervised-text-image-person-retrieval)
 4. [Unsupervised Text-Image Person Retrieval](#-Unsupervised-Text-Image-Person-Retrieval)
 5. [Dialogue-based Person Retrieval](#-Dialogue-based-Person-Retrieval)
