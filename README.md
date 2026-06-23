@@ -45,6 +45,8 @@ Markdown format:
 - `[Liang et al. WWW26]` Pedestrian-Centric Discriminative and Fine-grained Semantic Mining for Text-based Person Retrieval, WWW 2026. [[PDF](https://dl.acm.org/doi/abs/10.1145/3774904.3792134)]
 - `[Deng et al. TIFS26]` Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026.  [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
 - `[Dong et al. TIP26]` Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval, TIP 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
+- `[Yang et al. PR26]` Minimizing the pretraining gap: Domain-aligned text-based person retrieval, PR 2026. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320326004772)]
+- `[Yang et al. PR26]` A training-free framework for text-to-image person re-identification via query-prototype matching, PR 2026. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320326006709)]
 
 ### 2025
 * `[Qin et al. CVPR26]` Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification, CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.html)]
