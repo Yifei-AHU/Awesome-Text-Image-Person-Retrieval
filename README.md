@@ -25,7 +25,7 @@ Markdown format:
 4. [Unsupervised Text-Image Person Retrieval](#Unsupervised-Text-Image-Person-Retrieval)
 5. [Dialogue-based Person Retrieval](#Dialogue-based-Person-Retrieval)
 
-# 🚶 Text-Image Person Retrieval
+## 🚶 Text-Image Person Retrieval
 ## 📊 Datasets
 |Dataset                        | Years |    Images   |Captions|   IDs  |
 |-------------------------------|-------|-------------|------  |--------|
@@ -131,7 +131,7 @@ Markdown format:
 
 --------------------------------------------------------------------------------------
 
-# 🛰️ Text-Aerial Person Retrieval
+## 🛰️ Text-Aerial Person Retrieval
 ## 📊 Datasets
 |Dataset                        | Years |    Images   |  IDs  |
 |-------------------------------|-------|-------------|-------|
@@ -148,7 +148,7 @@ Markdown format:
 
 --------------------------------------------------------------------------------------
 
-# 🧪 Semi/Weakly supervised Text-Image Person Retrieval
+## 🧪 Semi/Weakly supervised Text-Image Person Retrieval
 
 ## 📄 Papers
 * `[Zhao et al. ICCV21]` Weakly Supervised Text-based Person Re-Identification, ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Weakly_Supervised_Text-Based_Person_Re-Identification_ICCV_2021_paper.pdf)]
@@ -163,7 +163,7 @@ Markdown format:
 
 --------------------------------------------------------------------------------------
 
-# 🔓 Unsupervised Text-Image Person Retrieval
+## 🔓 Unsupervised Text-Image Person Retrieval
 
 ## 📄 Papers
 * `[Niu et al. TIP26]` Pseudo Sentences Evaluation and Quality-Aware Robust Learning for Unsupervised Text-Based Person Search, TIP 2026. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11534391)]
@@ -186,7 +186,7 @@ Markdown format:
 
 --------------------------------------------------------------------------------------
 
-# 💬 Dialogue-based Person Retrieval
+## 💬 Dialogue-based Person Retrieval
 ## 📊 Datasets
 |Dataset                        | Years |    Images   |  IDs  |
 |-------------------------------|-------|-------------|-------|
