@@ -24,6 +24,7 @@ Markdown format:
 3. [Semi/Weakly supervised Text-Image Person Retrieval](#-semiweakly-supervised-text-image-person-retrieval)
 4. [Unsupervised Text-Image Person Retrieval](#-Unsupervised-Text-Image-Person-Retrieval)
 5. [Dialogue-based Person Retrieval](#-Dialogue-based-Person-Retrieval)
+6. [Text-Video Person Retrieval](#-text-video-person-retrieval)
 
 ## 🚶 Text-Image Person Retrieval
 ## 📊 Datasets
@@ -214,5 +215,22 @@ Markdown format:
 * `[Liu et al. MM25]` Dialogue-Driven Interactive Dynamic Learning for Text-to-Image Person Retrieval, ACM MM 2025. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3754583)]
 
 * `[Lu et al. ICML25]` LLaVA-ReID: Selective Multi-image Questioner for Interactive Person Re-Identification, ICML 2025. [[PDF](https://arxiv.org/pdf/2504.10174?)] [[Code](https://github.com/XLearning-SCU/LLaVA-ReID)]
+
+--------------------------------------------------------------------------------------
+
+## 🎬 Text-to-Video Person Retrieval
+## 📊 Datasets
+|Dataset                        | Years |    Videos   |  Sentences  |
+|-------------------------------|-------|-------------|-------|
+|[TVPReid)](https://github.com/NjtechCVLab/TVPReid-Dataset)|2024|6,559|13,118|
+|[T-MARS]|2026|20,472|-|
+|[TV-MARS]|2026|16,360|16,360|
+
+## 📄 Papers
+* `[Zhang et al. MM24]` TVPR: Text-to-Video Person Retrieval and a New Benchmark, ACM MM 2024. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3664647.3681715)] 
+
+* `[Meng et al. Information Sciences26]` Spatio-temporal semantic alignment leveraging human structural priors for text-to-video person retrieval, Information Sciences 2026. [[PDF](https://www.sciencedirect.com/science/article/pii/S0020025526003452)]
+
+* `[Su et al. Neurocomputing26]` Text-to-video person re-identification benchmark: Dataset and dual-modal contextual alignment, Neurocomputing 2026. [[PDF](https://www.sciencedirect.com/science/article/pii/S0925231225032680)]
 
 --------------------------------------------------------------------------------------
