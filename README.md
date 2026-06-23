@@ -3,7 +3,7 @@ A collection of deep learning based Text-Image Person Retrieval methods, codes a
 
 ## Contributing
 
-Welcome to [pull requests](https://github.com/danieljf24/awesome-video-text-retrieval/pulls) to add papers, feel free to star and contact me. Keep updating....🚀
+Welcome to [pull requests](https://github.com/Yifei-AHU/Awesome-Text-Image-Person-Retrieval/pulls) to add papers, feel free to star and contact me. Keep updating....🚀
 
 Markdown format:
 
