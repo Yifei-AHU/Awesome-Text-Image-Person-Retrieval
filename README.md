@@ -38,15 +38,25 @@ Markdown format:
 
 ### 2026
 - `[Zou et al. CVPR26]` Tackling Alignment Ambiguity in Person Retrieval through Conversational Attribute Mining, CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Tackling_Alignment_Ambiguity_in_Person_Retrieval_through_Conversational_Attribute_Mining_CVPR_2026_paper.pdf)]
+  
 - `[Li et al. CVPR26]` Quota-Calibrated Fine-Grained Alignment with Context-Aware Marginals for Text-based Person Retrieval, CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Quota-Calibrated_Fine-Grained_Alignment_with_Context-Aware_Marginals_for_Text-based_Person_Retrieval_CVPR_2026_paper.pdf)]
+  
 - `[Yuan et al. AAAI26]` Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval, AAAI 2026. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38218)]
+  
 - `[You et al. AAAI26]` KPDM: Key Phrase Dynamic Masking for Robust Text-to-Image Person Retrieval, AAAI 2026. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38199)]
+  
 - `[Zhou et al. AAAI26]` Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification, AAAI 2026.  [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38380)]
+  
 - `[Liang et al. WWW26]` Pedestrian-Centric Discriminative and Fine-grained Semantic Mining for Text-based Person Retrieval, WWW 2026. [[PDF](https://dl.acm.org/doi/abs/10.1145/3774904.3792134)]
+  
 - `[Deng et al. TIFS26]` Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026.  [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
+  
 - `[Dong et al. TIP26]` Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval, TIP 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
+  
 - `[Yang et al. TCSVT26]` Probabilistic Distribution Alignment for Text-Based Person Retrieval, TCSVT 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
+  
 - `[Yang et al. PR26]` Minimizing the pretraining gap: Domain-aligned text-based person retrieval, PR 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11386968)]
+  
 - `[Yang et al. PR26]` A training-free framework for text-to-image person re-identification via query-prototype matching, PR 2026. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320326006709)]
 
 ### 2025
