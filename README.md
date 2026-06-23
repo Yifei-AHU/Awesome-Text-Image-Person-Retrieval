@@ -24,7 +24,7 @@ Markdown format:
 3. [Semi/Weakly supervised Text-Image Person Retrieval](#-semiweakly-supervised-text-image-person-retrieval)
 4. [Unsupervised Text-Image Person Retrieval](#-Unsupervised-Text-Image-Person-Retrieval)
 5. [Dialogue-based Person Retrieval](#-Dialogue-based-Person-Retrieval)
-6. [Text-Video Person Retrieval](#-text-video-person-retrieval)
+6. [Text-to-Video Person Retrieval](#-text-to-video-person-retrieval)
 
 ## 🚶 Text-Image Person Retrieval
 ## 📊 Datasets
@@ -222,9 +222,9 @@ Markdown format:
 ## 📊 Datasets
 |Dataset                        | Years |    Videos   |  Sentences  |
 |-------------------------------|-------|-------------|-------|
-|[TVPReid)](https://github.com/NjtechCVLab/TVPReid-Dataset)|2024|6,559|13,118|
-|[T-MARS]|2026|20,472|-|
-|[TV-MARS]|2026|16,360|16,360|
+|[TVPReid](https://github.com/NjtechCVLab/TVPReid-Dataset)|2024|6,559|13,118|
+|T-MARS|2026|20,472|-|
+|TV-MARS|2026|16,360|16,360|
 
 ## 📄 Papers
 * `[Zhang et al. MM24]` TVPR: Text-to-Video Person Retrieval and a New Benchmark, ACM MM 2024. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3664647.3681715)] 
