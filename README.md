@@ -1,13 +1,13 @@
 # Awesome-Text-Image Person Retrieval ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 A collection of deep learning based Text-Image Person Retrieval methods, codes and datasets.
 
-## Acknowledgments
+## 🙏 Acknowledgments
 - Thanks to Dr. **Yang Bai (白杨)** from Wuhan University for her efforts in organizing works related to dialogue-based person retrieval.
 - Thanks to Associate Professor **Shuanglin Yan (严双林)** from Nanjing Forestry University for his efforts in organizing works related to text-image person retrieval.
 - Thanks to Mr. **Yong Wu (伍勇)** from Anhui Normal University for his efforts in organizing works related to text-image person retrieval.
 - Thanks to Dr. **Xiaowei Zhao (赵小卫)** from Anhui University for his efforts in organizing works related to semi-supervised text-image person retrieval.
 
-## Contributing
+## 🤝 Contributing
 
 Welcome to [pull requests](https://github.com/Yifei-AHU/Awesome-Text-Image-Person-Retrieval/pulls) to add papers, feel free to star and contact me. Keep updating....🚀
 
@@ -17,7 +17,7 @@ Markdown format:
 - `[Author Journal/Booktitle Year]` Title. Journal/Booktitle, Year. [[paper]](link) [[code]](link) [[homepage]](link)
 ```
 
-## Contents  
+## 🧭 Contents  
 
 1. [Text-Image Person Retrieval](#Text-Image-Person-Retrieval)
 2. [Text-Aerial Person Retrieval](#Text-Aerial-Person-Retrieval)
@@ -26,8 +26,8 @@ Markdown format:
 5. [Dialogue-based Person Retrieval](#Dialogue-based-Person-Retrieval)
 
 --------------------------------------------------------------------------------------
-# Text-Image Person Retrieval
-## Datasets
+# 🚶 Text-Image Person Retrieval
+## 📊 Datasets
 |Dataset                        | Years |    Images   |Captions|   IDs  |
 |-------------------------------|-------|-------------|------  |--------|
 |[CUHK-PEDES](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description)|2017|40,206|80,412|13,003|
@@ -35,7 +35,7 @@ Markdown format:
 |[ICFG-PEDES](https://github.com/zifyloo/SSAN)|2021|54,522|54,522|4,102|
 [UFineBench](https://github.com/Zplusdragon/UFineBench)|2024|26,206|52,412|6,926|
 
-## Papers
+## 📄 Papers
 
 ### 2026
 - `[Zou et al. CVPR26]` Tackling Alignment Ambiguity in Person Retrieval through Conversational Attribute Mining, CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Tackling_Alignment_Ambiguity_in_Person_Retrieval_through_Conversational_Attribute_Mining_CVPR_2026_paper.pdf)]
@@ -132,15 +132,15 @@ Markdown format:
 
 --------------------------------------------------------------------------------------
 
-# Text-Aerial Person Retrieval
-## Datasets
+# 🛰️ Text-Aerial Person Retrieval
+## 📊 Datasets
 |Dataset                        | Years |    Images   |  IDs  |
 |-------------------------------|-------|-------------|-------|
 |[AERI-PEDES](https://github.com/Yifei-AHU/AERI-PEDES)|2026|144,548|4,659|
 |[TBAPR](https://github.com/xbdxwyh/AEA-FIRM-main)|2025|65,880|1,709|
 |[TAG-PEDES](https://github.com/Flame-Chasers/TAG-PR)|2025|28,206|6,840|
 
-## Papers
+## 📄 Papers
 * `[Deng et al. CVPR26]` Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark, CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Cross-modal_Fuzzy_Alignment_Network_for_Text-Aerial_Person_Retrieval_and_A_CVPR_2026_paper.html)] [[Code](https://github.com/Yifei-AHU/AERI-PEDES)]
 
 * `[Wang et al. TCSVT25]` AEA-FIRM: Adaptive Elastic Alignment with Fine-Grained Representation Mining for Text-based Aerial-Ground Pedestrian Retrieval, TCSVT 2025. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11072214)] [[Code](https://github.com/xbdxwyh/AEA-FIRM-main)]
@@ -149,9 +149,9 @@ Markdown format:
 
 --------------------------------------------------------------------------------------
 
-# Semi/Weakly supervised Text-Image Person Retrieval
+# 🧪 Semi/Weakly supervised Text-Image Person Retrieval
 
-## Papers
+## 📄 Papers
 * `[Zhao et al. ICCV21]` Weakly Supervised Text-based Person Re-Identification, ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Weakly_Supervised_Text-Based_Person_Re-Identification_ICCV_2021_paper.pdf)]
 
 * `[Gao et al. TIP25]` Semi-supervised Text-based Person Search, TIP 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/11165023/)]
@@ -164,9 +164,9 @@ Markdown format:
 
 --------------------------------------------------------------------------------------
 
-# Unsupervised Text-Image Person Retrieval
+# 🔓 Unsupervised Text-Image Person Retrieval
 
-## Papers
+## 📄 Papers
 * `[Niu et al. TIP26]` Pseudo Sentences Evaluation and Quality-Aware Robust Learning for Unsupervised Text-Based Person Search, TIP 2026. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11534391)]
 
 * `[Li et al. AAAI25]` Exploring the Potential of Large Vision-Language Models for Unsupervised Text-based Person Retrieval, AAAI 2025. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32543)]
@@ -187,14 +187,14 @@ Markdown format:
 
 --------------------------------------------------------------------------------------
 
-# Dialogue-based Person Retrieval
-## Datasets
+# 💬 Dialogue-based Person Retrieval
+## 📊 Datasets
 |Dataset                        | Years |    Images   |  IDs  |
 |-------------------------------|-------|-------------|-------|
 |[ChatPedes](https://github.com/Flame-Chasers/DiaNA)|2025|37,128|12,003|
 |[Interactive-PEDES](https://github.com/XLearning-SCU/LLaVA-ReID)|2025|54,749|13,051|
 
-## Papers
+## 📄 Papers
 * `[Bai et al. CVPR25]` Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment, CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Chat-based_Person_Retrieval_via_Dialogue-Refined_Cross-Modal_Alignment_CVPR_2025_paper.pdf)] [[Code](https://github.com/Flame-Chasers/DiaNA)]
 
 * `[Xie et al. EMNLP25]` Chat-Driven Text Generation and Interaction for Person Retrieval, EMNLP 2025. [[PDF](https://aclanthology.org/2025.emnlp-main.266.pdf)]
