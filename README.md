@@ -25,7 +25,6 @@ Markdown format:
 4. [Unsupervised Text-Image Person Retrieval](#Unsupervised-Text-Image-Person-Retrieval)
 5. [Dialogue-based Person Retrieval](#Dialogue-based-Person-Retrieval)
 
---------------------------------------------------------------------------------------
 # 🚶 Text-Image Person Retrieval
 ## 📊 Datasets
 |Dataset                        | Years |    Images   |Captions|   IDs  |
