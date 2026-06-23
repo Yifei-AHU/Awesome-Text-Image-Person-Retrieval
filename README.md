@@ -4,7 +4,7 @@ A collection of deep learning based Text-Image Person Retrieval methods, codes a
 ## 🙏 Acknowledgments
 - Thanks to Dr. **[Yang Bai (白杨)](https://scholar.google.com/citations?hl=zh-CN&user=oRTnolQAAAAJ)** from Wuhan University for her efforts in organizing works related to dialogue-based person retrieval.
 - Thanks to Associate Professor **Shuanglin Yan (严双林)** from Nanjing Forestry University for his efforts in organizing works related to text-image person retrieval.
-- Thanks to Mr. **Yong Wu (伍永)** from Anhui Normal University for his efforts in organizing works related to text-image person retrieval.
+- Thanks to Mr. **[Yong Wu (伍永)](https://scholar.google.com/citations?hl=zh-CN&user=3TKkLTUAAAAJ)** from Anhui Normal University for his efforts in organizing works related to text-image person retrieval.
 - Thanks to Dr. **Xiaowei Zhao (赵小卫)** from Anhui University for his efforts in organizing works related to semi-supervised text-image person retrieval.
 
 ## 🤝 Contributing
