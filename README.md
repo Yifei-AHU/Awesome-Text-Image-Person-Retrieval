@@ -57,7 +57,7 @@ Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf
   
 - `[Dong et al. TIP26]` Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval, TIP 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
   
-- `[Yang et al. TCSVT26]` Probabilistic Distribution Alignment for Text-Based Person Retrieval, TCSVT 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
+- `[Dong et al. TCSVT26]` Probabilistic Distribution Alignment for Text-Based Person Retrieval, TCSVT 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
   
 - `[Yang et al. PR26]` Minimizing the pretraining gap: Domain-aligned text-based person retrieval, PR 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11386968)]
   
