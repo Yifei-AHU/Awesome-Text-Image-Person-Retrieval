@@ -41,6 +41,9 @@ Markdown format:
 - `[Zou et al. CVPR26]` Tackling Alignment Ambiguity in Person Retrieval through Conversational Attribute Mining, CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Tackling_Alignment_Ambiguity_in_Person_Retrieval_through_Conversational_Attribute_Mining_CVPR_2026_paper.pdf)]
   
 - `[Li et al. CVPR26]` Quota-Calibrated Fine-Grained Alignment with Context-Aware Marginals for Text-based Person Retrieval, CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Quota-Calibrated_Fine-Grained_Alignment_with_Context-Aware_Marginals_for_Text-based_Person_Retrieval_CVPR_2026_paper.pdf)]
+
+- `[Wang et al. CVPR26]` R2TUA: Reconstruction-residual Based Targeted and Untargeted Attack Against
+Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_R2TUA_Reconstruction-residual_Based_Targeted_and_Untargeted_Attack_Against_Text-Image_Person_CVPR_2026_paper.pdf)]
   
 - `[Yuan et al. AAAI26]` Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval, AAAI 2026. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38218)]
   
