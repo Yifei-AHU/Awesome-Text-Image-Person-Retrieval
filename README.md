@@ -65,6 +65,8 @@ Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf
   
 - `[Yang et al. PR26]` A training-free framework for text-to-image person re-identification via query-prototype matching, PR 2026. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320326006709)]
 
+- `[Zhu et al. PR26]` A2HA: Attribute-aware hierarchical alignment for text–image person re-identification, PR 2026. [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320326010654)]
+
 ### 2025
 * `[Qin et al. CVPR26]` Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification, CVPR 2025. [[PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.html)]
 
