@@ -56,6 +56,8 @@ Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf
 - `[Deng et al. TIFS26]` Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026.  [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
   
 - `[Dong et al. TIP26]` Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval, TIP 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
+
+- `[Liu et al. TMM26]` Robust Text-to-Image Person Re-identification via Neighbor Consistency-based Correspondence Estimation, TMM 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11552014)]
   
 - `[Dong et al. TCSVT26]` Probabilistic Distribution Alignment for Text-Based Person Retrieval, TCSVT 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
   
