@@ -57,7 +57,11 @@ Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf
   
 - `[Dong et al. TIP26]` Taking Astray Domain Back Home for Single-Source Domain Generalizable Text-to-Image Person Retrieval, TIP 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
 
+- `[Wang et al. TIP26]` P-CLIP: Progressive Discrepancy Learning for One-Shot Text-to-Image Person Re-Identification, TIP 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11333948)]
+
 - `[Liu et al. TMM26]` Robust Text-to-Image Person Re-identification via Neighbor Consistency-based Correspondence Estimation, TMM 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11552014)]
+
+- `[Zeng et al. TMM26]` Towards Mitigation of False Negatives in Text-to-Image Person Re-identification, TMM 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11397213)]
   
 - `[Dong et al. TCSVT26]` Probabilistic Distribution Alignment for Text-Based Person Retrieval, TCSVT 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
 
@@ -175,6 +179,8 @@ Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf
 
 ## 📄 Papers
 * `[Zhao et al. ICCV21]` Weakly Supervised Text-based Person Re-Identification, ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Weakly_Supervised_Text-Based_Person_Re-Identification_ICCV_2021_paper.pdf)]
+
+* `[Wang et al. TIFS26]` Consensus Labeling: Prompt-Guided Clustering Refinement for Weakly Supervised Text-Based Person Re-Identification, TIFS 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11366996)]
 
 * `[Gao et al. TIP25]` Semi-supervised Text-based Person Search, TIP 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/11165023/)]
 
