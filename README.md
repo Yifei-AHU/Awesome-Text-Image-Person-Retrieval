@@ -104,6 +104,8 @@ Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf
 
 * `[Cao et al. TPAMI25]` Multilingual Text-to-Image Person Retrieval via Bidirectional Relation Reasoning and Aligning, TPAMI 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/11199360)]
 
+* `[You et al. TIFS25]` Diverse Co-Saliency Feature Learning for Text-Based Person Retrieval, TIFS 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/11014247)]
+
 
 ### 2024
 * `[Qin et al. CVPR24]` Noisy-Correspondence Learning for Text-to-Image Person Re-identification, CVPR 2024. [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)]
