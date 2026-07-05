@@ -52,6 +52,8 @@ Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf
 - `[Zhou et al. AAAI26]` Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification, AAAI 2026.  [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/38380)]
   
 - `[Liang et al. WWW26]` Pedestrian-Centric Discriminative and Fine-grained Semantic Mining for Text-based Person Retrieval, WWW 2026. [[PDF](https://dl.acm.org/doi/abs/10.1145/3774904.3792134)]
+
+- `[Zuo et al. TPAMIS26]` Achieving Text-based Person Retrieval with Any Granularity, TPAMI 2026.  [[PDF](https://ieeexplore.ieee.org/document/11592705)] 
   
 - `[Deng et al. TIFS26]` Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026.  [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
   
