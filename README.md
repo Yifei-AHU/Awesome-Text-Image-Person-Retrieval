@@ -53,7 +53,9 @@ Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf
   
 - `[Liang et al. WWW26]` Pedestrian-Centric Discriminative and Fine-grained Semantic Mining for Text-based Person Retrieval, WWW 2026. [[PDF](https://dl.acm.org/doi/abs/10.1145/3774904.3792134)]
 
-- `[Zuo et al. TPAMIS26]` Achieving Text-based Person Retrieval with Any Granularity, TPAMI 2026.  [[PDF](https://ieeexplore.ieee.org/document/11592705)] 
+- `[Zuo et al. TPAMI26]` Achieving Text-based Person Retrieval with Any Granularity, TPAMI 2026.  [[PDF](https://ieeexplore.ieee.org/document/11592705)]
+
+- `[Tan et al. IJCV26]` Knowing Where to Focus: Attention-Guided Alignment for Text-based Person Search, IJCV 2026.  [[PDF](https://link.springer.com/article/10.1007/s11263-025-02717-8)] 
   
 - `[Deng et al. TIFS26]` Cross-modal Person Retrieval with One-to-Many Relation Modeling, TIFS 2026.  [[PDF](https://ieeexplore.ieee.org/abstract/document/11503671)]
   
