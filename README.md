@@ -177,7 +177,7 @@ Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf
 ## 📄 Papers
 * `[Deng et al. CVPR26]` Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark, CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Cross-modal_Fuzzy_Alignment_Network_for_Text-Aerial_Person_Retrieval_and_A_CVPR_2026_paper.html)] [[Code](https://github.com/Yifei-AHU/AERI-PEDES)]
 
-* `[Wang et al. TCSVT25]` AEA-FIRM: Adaptive Elastic Alignment with Fine-Grained Representation Mining for Text-based Aerial-Ground Pedestrian Retrieval, TCSVT 2025. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11072214)] [[Code](https://github.com/xbdxwyh/AEA-FIRM-main)]
+* `[Wang et al. TCSVT25]` AEA-FIRM: Adaptive Elastic Alignment With Fine-Grained Representation Mining for Text-Based Aerial Pedestrian Retrieval, TCSVT 2025. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11072214)] [[Code](https://github.com/xbdxwyh/AEA-FIRM-main)]
 
 * `[Zhou et al. AAAI26]` Text-based Aerial-Ground Person Retrieval, AAAI 2026. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/40140)] [[Code](https://github.com/Flame-Chasers/TAG-PR)]
 
