@@ -38,7 +38,7 @@ Markdown format:
 ## 📄 Papers
 
 ### 2026
-- `[Zhu et al. TMM26]` PaRT-Net: Text-Image Person Re-Identification With Prioritized and Reweighted Tokens, TMM 2026. [PDF](https://doi.org/10.1109/TMM.2026.3718633)
+- `[Zhu et al. TMM26]` PaRT-Net: Text-Image Person Re-Identification With Prioritized and Reweighted Tokens, TMM 2026. [[PDF](https://doi.org/10.1109/TMM.2026.3718633)]
 
 - `[Zou et al. CVPR26]` Tackling Alignment Ambiguity in Person Retrieval through Conversational Attribute Mining, CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Tackling_Alignment_Ambiguity_in_Person_Retrieval_through_Conversational_Attribute_Mining_CVPR_2026_paper.pdf)]
   
