@@ -38,6 +38,12 @@ Markdown format:
 ## 📄 Papers
 
 ### 2026
+- `[Zhang et al. SIGIR26]` Pretrain-then-Adapt: Uncertainty-Aware Test-Time Adaptation for Text-based Person Search, SIGIR 2026. [[PDF](https://doi.org/10.1145/3805712.3809598)]
+
+- `[Hao et al. SIGIR26]` Unifying Granularity and Reliability: A Robust and Efficient Framework for Text-based Person Retrieval, SIGIR 2026. [[PDF](https://doi.org/10.1145/3805712.3809718)]
+
+- `[Cao et al. TIFS26]` An Empirical Study of Validating Synthetic Data for Text-Based Person Retrieval, TIFS 2026. [[PDF](https://ieeexplore.ieee.org/document/11614570/)]
+
 - `[Zhu et al. TMM26]` PaRT-Net: Text-Image Person Re-Identification With Prioritized and Reweighted Tokens, TMM 2026. [[PDF](https://doi.org/10.1109/TMM.2026.3718633)]
 
 - `[Zou et al. CVPR26]` Tackling Alignment Ambiguity in Person Retrieval through Conversational Attribute Mining, CVPR 2026. [[PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zou_Tackling_Alignment_Ambiguity_in_Person_Retrieval_through_Conversational_Attribute_Mining_CVPR_2026_paper.pdf)]
