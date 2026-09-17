@@ -78,6 +78,8 @@ Text-Image Person Re-Identification, CVPR 2026. [[PDF](https://openaccess.thecvf
 - `[Dong et al. TCSVT26]` Probabilistic Distribution Alignment for Text-Based Person Retrieval, TCSVT 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11433531)]
 
 - `[Li et al. TCSVT26]` Hierarchical Concept Alignment Meets Counterfactual Invariance for Semantic-Faithful Person Retrieval, TCSVT 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11556322)]
+
+- `[Zhang et al. TCSVT26]` Progressive Robust Decoupling of Noisy-Hard Sample for Text-to-Image Person Retrieval, TCSVT 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11684849)]
   
 - `[Yang et al. PR26]` Minimizing the pretraining gap: Domain-aligned text-based person retrieval, PR 2026. [[PDF](https://ieeexplore.ieee.org/abstract/document/11386968)]
   
