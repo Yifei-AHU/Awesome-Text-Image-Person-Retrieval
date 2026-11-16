@@ -38,6 +38,12 @@ Markdown format:
 ## 📄 Papers
 
 ### 2026
+- `[Yang et al. MM26]` Beyond Contrastive: Generative Reranking for Multilingual Text-Based Person Retrieval, ACM MM 2026. [[PDF](https://doi.org/10.1145/3767308.3835886)]
+
+- `[Zhou et al. MM26]` Vision-Grounded Semantic Learning and Alignment for Scalable Multilingual Text-Based Person Retrieval, ACM MM 2026. [[PDF](https://doi.org/10.1145/3767308.3836472)]
+
+- `[Zhang et al. MM26]` Neighbor-Guided Robust Learning for Text-to-Image Person Retrieval, ACM MM 2026. [[PDF](https://doi.org/10.1145/3767308.3836042)]
+
 - `[Zhang et al. SIGIR26]` Pretrain-then-Adapt: Uncertainty-Aware Test-Time Adaptation for Text-based Person Search, SIGIR 2026. [[PDF](https://doi.org/10.1145/3805712.3809598)]
 
 - `[Hao et al. SIGIR26]` Unifying Granularity and Reliability: A Robust and Efficient Framework for Text-based Person Retrieval, SIGIR 2026. [[PDF](https://doi.org/10.1145/3805712.3809718)]
